@@ -1,0 +1,1 @@
+# BigQueryPractice_Clinic_map
